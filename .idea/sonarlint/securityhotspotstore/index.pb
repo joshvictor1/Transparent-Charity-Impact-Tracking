@@ -9,3 +9,7 @@ S
 #contracts/expense-verification.clar,c/9/c9b4c9d58939527575ddf0d444025dd1791d007a
 R
 "tests/expense-verification.test.ts,3/5/355f36347f8b3ab158c278e2e6ed0af682e1b6ef
+Q
+!contracts/impact-measurement.clar,7/7/7765dce0edaef472557ecdb6faf8a55698ad8afd
+P
+ tests/impact-measurement.test.ts,f/f/ff7d0669084d4e1fe753a745162adbf9dc26d9ea
