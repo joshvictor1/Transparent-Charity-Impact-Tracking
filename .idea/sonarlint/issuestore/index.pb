@@ -7,3 +7,5 @@ Q
 !tests/donation-management.test.ts,2/e/2ef9acd49df8a7a87fd5428f3951c7901dc9c23b
 S
 #contracts/expense-verification.clar,c/9/c9b4c9d58939527575ddf0d444025dd1791d007a
+R
+"tests/expense-verification.test.ts,3/5/355f36347f8b3ab158c278e2e6ed0af682e1b6ef
